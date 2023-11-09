@@ -1,4 +1,6 @@
 # hello-world
-hello-world for my new repository\n
-**CSE 2022103649**\n
+hello-world for my new repository
+
+**CSE 2022103649**
+
 *Lim Chogang*
